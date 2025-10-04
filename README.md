@@ -1,2 +1,3 @@
 # Taller-4
 Taller de Machine Learning - De Regresión Lineal a ML
+CARLOS RODRIGUEZ 29910, CAMILA MANTILLA 66483, CRISTIAN ARDILA 66407
